@@ -1,0 +1,118 @@
+* {
+    font-family: 'Inter', sans-serif;
+    background-color: #00000000;
+}
+
+.rlogo {
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: 600;
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+    padding-left: 3rem;
+    text-decoration: none;
+    color: black;
+    -webkit-font-smoothing: antialiased;
+}
+
+.rlist {
+    gap: 7rem;
+    padding-right: 4rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    -webkit-font-smoothing: antialiased;
+
+}
+
+.rname {
+    padding-top: 5rem;
+    padding-left: 3.5rem;
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 107px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 0;
+    color: rgba(0, 0, 0, 0.173);
+}
+
+
+.rrole {
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 107px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 0;
+    padding-left: 3.5rem;
+    padding-top: 0.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.rskills {
+    padding-left: 5rem;
+}
+
+.rskillbox {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.raim {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin: 0.5rem 0;
+    line-height: 165%;
+    color: #0000003a;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.rcurrent {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0;
+    color: #000000;
+    line-height: 1.75rem;
+}
+
+.rposition{
+    padding-top: 110px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.rtechstack{
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 107px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 0;
+    padding-left: 3.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 5rem;
+    color: rgba(0, 0, 0, 0.173);
+    
+}
+
+.rfootersection{
+    padding-top: 40px;
+}
+

@@ -1,0 +1,29 @@
+* {
+    font-family: 'Inter', sans-serif;
+    background-color: #00000000;
+}
+
+.rlogo {
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: 600;
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+    padding-left: 3rem;
+    text-decoration: none;
+    color: black;
+    -webkit-font-smoothing: antialiased;
+}
+
+.rlist {
+    gap: 7rem;
+    padding-right: 4rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    -webkit-font-smoothing: antialiased;
+
+}
+
+
+
+
