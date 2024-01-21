@@ -112,9 +112,6 @@ ul {
     
 }
 
-.rfootersection{
-    padding-top: 40px;
-}
 
 .rcontactlinks{
     display: flex;
@@ -127,8 +124,10 @@ ul {
     font-weight: 500;
 }
 
-svg{
-    width:1em;
-    height: 1em;
+.rskillsection{
+    padding-top: 3rem ;
+    padding-bottom: 3rem;
 }
 
+.rfooter{        
+}
